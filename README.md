@@ -7,6 +7,6 @@
 I'm the author of addons like Bagnon, Scrap and PetTracker.  If you're here because of something else and don't know what that means, don't worry about it 😉, just dodge the MMO gamers, I won't tell :see_no_evil:.
 
 #### About Me
-🎮 I've been a gamer and software developer for two decates now. My professsional journey started quite unexpectedly when I was just 12 years old, and created some of the most popular third-party software for World of Warcraft.
+🎮 I've been a gamer and software developer for two decates now. My professsional journey started quite unexpectedly when I was just 12 years old, and created some of the most popular third-party software for [World of Warcraft](https://worldofwarcraft.blizzard.com/).
 
 🎓 On the academic front, I hold a PhD in computer graphicas and machine learning. My research primarily focuses on crafting learning solutions to tackle challenges in computer graphics, such as optimizing rendering performance and enhancing skin simulation, or improving hand-drawn animation.
